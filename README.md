@@ -101,7 +101,7 @@ A full-stack web app that allows users to report crimes, track case status, and 
 **Description:**  
 A tool to create, edit, and export ER diagrams easily using a drag-and-drop UI for database planning.
 
-🔗 **Live:** https://crime-report-mauve.vercel.app  
+🔗 **Live:** https://entity-craft.vercel.app/  
 📂 **GitHub:** https://github.com/PoojaSingh31github/E-R-Diagram-Builder-FE  
 🏷️ **Tech Stack:** `React` `tailwindcss` `Nodejs` `Express.js` `MongoDB`
 
