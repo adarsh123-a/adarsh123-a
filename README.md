@@ -93,7 +93,7 @@ A full-stack web app that allows users to report crimes, track case status, and 
 
 🔗 **Live:** https://crime-report-mauve.vercel.app  
 📂 **GitHub:** https://github.com/adarsh123-a/CrimeReport  
-🏷️ **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` `Multer` `Cloudinary`
+🏷️ **Tech Stack:** `React` `Firebase` `tailwindcss`
 
 ---
 
