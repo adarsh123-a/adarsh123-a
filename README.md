@@ -87,23 +87,23 @@
 
 ## 📌 Pinned Projects
 
-### 🔹 Crime Reporting System (MERN)
+### 🔹 Crime Reporting System (Frontend)
 **Description:**  
 A full-stack web app that allows users to report crimes, track case status, and connect with legal authorities.
 
 🔗 **Live:** https://crime-report-mauve.vercel.app  
 📂 **GitHub:** https://github.com/adarsh123-a/CrimeReport  
-🏷️ **Tech Stack:** `React`, `Firebase`, `tailwindcss`
+🏷️ **Tech Stack:** `React`, `Firebase`, `Tailwind Css`
 
 ---
 
-### 🔹 ER Diagram Builder (Frontend)
+### 🔹 ER Diagram Builder (MERN)
 **Description:**  
 A tool to create, edit, and export ER diagrams easily using a drag-and-drop UI for database planning.
 
 🔗 **Live:** https://entity-craft.vercel.app/  
 📂 **GitHub:** https://github.com/PoojaSingh31github/E-R-Diagram-Builder-FE  
-🏷️ **Tech Stack:** `React`, `tailwindcss`, `Nodejs`, `Express.js`, `MongoDB`
+🏷️ **Tech Stack:** `React`, `Tailwind Css`, `Node.js`, `Express.js`, `MongoDB`
 
 
 ⭐️ *Feel free to explore my repositories and connect for collaboration!*
