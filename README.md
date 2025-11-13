@@ -93,7 +93,7 @@ A full-stack web app that allows users to report crimes, track case status, and 
 
 🔗 **Live:** https://crime-report-mauve.vercel.app  
 📂 **GitHub:** https://github.com/adarsh123-a/CrimeReport  
-🏷️ **Tech Stack:** `React` `Firebase` `tailwindcss`
+🏷️ **Tech Stack:** `React`, `Firebase`, `tailwindcss`
 
 ---
 
@@ -103,7 +103,7 @@ A tool to create, edit, and export ER diagrams easily using a drag-and-drop UI f
 
 🔗 **Live:** https://entity-craft.vercel.app/  
 📂 **GitHub:** https://github.com/PoojaSingh31github/E-R-Diagram-Builder-FE  
-🏷️ **Tech Stack:** `React` `tailwindcss` `Nodejs` `Express.js` `MongoDB`
+🏷️ **Tech Stack:** `React`, `tailwindcss`, `Nodejs`, `Express.js`, `MongoDB`
 
 
 ⭐️ *Feel free to explore my repositories and connect for collaboration!*
