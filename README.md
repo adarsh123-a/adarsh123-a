@@ -22,7 +22,7 @@
 - :telescope: I’m currently learning: **Full Stack Development**
 - :seedling: I love building interactive and responsive web apps
 - :bulb: Exploring: React, Vue.js, Vuetify, Node.js, Express, MongoDB
-- :globe_with_meridians: Portfolio: [Visit My Portfolio](https://prismatic-starlight-473a37.netlify.app/)
+- :globe_with_meridians: Portfolio: [Visit My Portfolio](https://portfoliyo-2-0.vercel.app/)
 - :mailbox: Reach me at: **tripathiadarsh231@gmail.com**
 - :page_facing_up: [My Resume](https://drive.google.com/file/d/18HTRgVjp8PPgzYUKogqOKD8t2Kwwg4WA/view?usp=sharing)
 
