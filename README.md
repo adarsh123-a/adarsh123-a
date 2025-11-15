@@ -102,7 +102,7 @@ A full-stack web app that allows users to report crimes, track case status, and 
 A tool to create, edit, and export ER diagrams easily using a drag-and-drop UI for database planning.
 
 🔗 **Live:** https://entity-craft.vercel.app/  
-📂 **GitHub:** https://github.com/PoojaSingh31github/E-R-Diagram-Builder-FE  
+📂 **GitHub:** https://github.com/adarsh123-a/E-R-Diagram-Builder-FE  
 🏷️ **Tech Stack:** `React`, `Tailwind Css`, `Node.js`, `Express.js`, `MongoDB`
 
 
